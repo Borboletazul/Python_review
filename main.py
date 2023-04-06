@@ -1,3 +1,6 @@
+#Beginner useful functions
+#variable_float/print/input/math_operates/if/elif/else/condit_parameters._<=_<
+
 print("Calculo IMC")
 a = float(input("digite sua altura em metros(ex.:1.70):"))
 p = float(input("digite seu peso em Kg:"))
