@@ -1,3 +1,7 @@
+#Análise de nota
+#more basic concepts
+#print/input/if/elif
+
 print("Programa: professor LUAN GAMEPLAYS")
 
 nota=int(input("Digita tua nota:"))
